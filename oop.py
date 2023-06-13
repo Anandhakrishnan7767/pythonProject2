@@ -9,6 +9,10 @@ class student:
         print(self.name,self.mark)
 obj=student()
 obj.getdetails()
+
+
+
+
 obj.putdetails()
 obj.display
 
